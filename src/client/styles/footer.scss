@@ -1,0 +1,28 @@
+.footer {
+  background-color: $tertiary-color;
+  background: linear-gradient(#00aeef, #a5dc69);
+
+  color: $color-black;
+  min-height: 4rem;
+  max-height: 7rem;
+  display: flex;
+  flex-direction: column;
+  font-family: $font-text;
+  font-size: 0.8rem;
+  justify-content: center;
+  padding: 1rem 0;
+  text-align: center;
+
+  @media only screen and (min-width: 350px) {
+    font-size: 0.8rem;
+  }
+}
+  .footer__copyright {
+    font-family: $font-headings;
+    font-size: 0.8rem;
+    padding-bottom: 0.3rem;
+
+    @media only screen and (min-width: 350px) {
+      font-size: 0.8rem;
+    }
+  }
