@@ -2,11 +2,17 @@
 
 
 ## Project Overview
-
-This project is the Fifth project in Udacity's Front End Development Nanodegree.
+This is the Capstone Project in Udacity's Front End Development Nanodegree.
 This project is a web tool that aims to help users plan for their trips and get the required information about the destination 
 like weather and an image of the location using information obtained from external APIs. 
-
+##Teach stack
+<div align="center">
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/loader.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/node-sass.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg"/>
+</div>
 The practical knowledge that you will gain through this project:
 - Java Script Coding and DOM.
 - Sass styles
@@ -18,9 +24,10 @@ The practical knowledge that you will gain through this project:
 - Express
 - Using APIs and creating requests to external urls
 - Basic Jest testing
+
 _____________________________________________________________________________________________________________
 ## Hosting
-Live Demo : 
+Live Demo : https://travel-planner-0.herokuapp.com/
 _____________________________________________________________________________________________________________
 
 ## Setting up the Project
@@ -43,7 +50,9 @@ There is two environments (Mode) setup for this project:
 > Development environment(Mode)
 if you are going to apply some changes to the project and want the server to automatically re-build the application and reloads the page.
 So you should use this command:
-- `npm run build-dev` 
+```
+npm run build-dev
+``` 
 and it will open a new window in your browser with the app running on `localhost:3300`
 
 > Production environment(Mode)
@@ -58,7 +67,7 @@ ________________________________________________________________________________
 
 ## Project Testing
 This project uses the Jest framework that provides us the ability to create, and run tests.
-So you should use this command to run  testing:
+So you should use this command to run your tests:
 - `npm run test`
 _____________________________________________________________________________________________________________
 
