@@ -8,8 +8,6 @@ like weather and an image of the location using information obtained from extern
 _____________________________________________________________________________________________________________
 ## Teach stack
 <div align="center">
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/loader.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg"/>
   <img align="left" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="left" alt="medium" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -19,6 +17,7 @@ ________________________________________________________________________________
   <img align="left" alt="medium" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img align="left" alt="medium" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="left" alt="medium" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img align="left" alt="medium" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 The practical knowledge that you will gain through this project:
