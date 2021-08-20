@@ -13,8 +13,7 @@ ________________________________________________________________________________
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/loader.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/node-sass.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css3.svg"/>
+  <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </div>
 The practical knowledge that you will gain through this project:
 - Java Script Coding and DOM.
