@@ -18,9 +18,10 @@ ________________________________________________________________________________
   <img align="left" alt="medium" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="left" alt="medium" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img align="left" alt="medium" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <br>
 </div>
 
-The practical knowledge that you will gain through this project:
+### The practical knowledge that you will gain through this project:
 - Java Script Coding and DOM.
 - Sass styles
 - Creating layouts and page design
