@@ -75,6 +75,6 @@ npm run test
 _____________________________________________________________________________________________________________
 
 ### Project Preview  
->>> ![Screenshote for web page](Project_Review.png)
+>>> ![Screenshote for web page](Project_Review.jpg)
 
 ______________________________________^MOHAMED_SABER_SAYED_HAFEZ^____________________________________________
