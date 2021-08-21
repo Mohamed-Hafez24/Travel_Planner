@@ -6,7 +6,7 @@ This is the Capstone Project in Udacity's Front End Development Nanodegree.
 This project is a web tool that aims to help users plan for their trips and get the required information about the destination 
 like weather and an image of the location using information obtained from external APIs. 
 _____________________________________________________________________________________________________________
-## Teach stack
+## Tech stack
 
 <img align="left" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
