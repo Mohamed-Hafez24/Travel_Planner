@@ -36,7 +36,7 @@ Live Demo : https://travel-planner-0.herokuapp.com/
 _____________________________________________________________________________________________________________
 ## Setting up the Project
 1. Fork the project Github repository.
-2. Clone it onto your local machine OR download the zip file locally.
+2. Clone it into your local machine OR download the zip file locally.
 3. Get inside the project directory using `cd` command.
 4. install all dependencies using `npm install` command.
 _____________________________________________________________________________________________________________
